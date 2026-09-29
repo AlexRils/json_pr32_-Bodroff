@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">json_pr32_Bodroff</string>
+    <string name="prod">Имя продукта</string>
+    <string name="price">Цена</string>
+    <string name="teg">Тег через пробел</string>
+    <string name="vivod">Вывод</string>
+</resources>
